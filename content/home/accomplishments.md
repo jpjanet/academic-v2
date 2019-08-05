@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "MIT Center for Computational Engineering (CCE)"
+  organization_url = "https://computationalengineering.mit.edu/"
+  title = " MathWorks Prize for Outstanding Doctoral Research, Computational Science and Engineering Program 2019"
+  url = "https://computationalengineering.mit.edu/research/mathworks-research-prizes/"
+  certificate_url = ""
+  date_start = "2019-03-18"
   date_end = ""
-  description = ""
+  description = "For outstanding PhD research in the CCE program"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "ACS Comp. Division"
+  organization_url = "https://www.acscomp.org/home"
+  title = "Chemical Computing Group Excellence Award for Graduate Students Fall 2019"
+  url = "https://www.acscomp.org/awards/chemical-computing-group-excellence-award"
+  date_start = "2019-08-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  description = "American Chemical Society Computers in Chemistry Division prize for graduate students"
 
 +++
