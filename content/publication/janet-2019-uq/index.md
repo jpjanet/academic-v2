@@ -7,5 +7,5 @@ abstract = ""
 featured = true
 publication = "*Chemical Science*"
 url_preprint="https://doi.org/10.26434/chemrxiv.7900277.v1"
-url_pdf = " https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc02298h"
+url_pdf = "https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc02298h"
 +++
