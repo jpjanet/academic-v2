@@ -10,24 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Senior Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: the hjkgroup @ MIT
-  url: http://hjkgrp.mit.edu
+- name: Early CVRM @ AstraZeneca
+  url: https://www.astrazeneca.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I research how to combine data-driven and simulation methods for atomistic systems.
 
 interests:
-- First-principles and data-driven material discovery
-- Data-driven modeling of atomistic processes
-- Surrogate model confidence estimation
+- First-principles and data-driven chemical discovery
+- Machine learning from large-scale experiments
+- Surrogate model/machine learning confidence estimation 
+
 
 education:
   courses:
-  - course: PhD candidate in Chemical/Computational Engineering
+  - course: PhD in Chemical/Computational Engineering
     institution: Massachusetts Institute of Technology, Cambridge (MIT)
     year: 2019
   - course: M.Sc. in Scientific Computing
@@ -47,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jpjanet@mit.edu
+  link: mailto:jon.paul.janet@gmail.com
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -74,6 +75,5 @@ user_groups:
 ---
 
 
-I am a graduate student in the chemical and computational engineering Ph.D. program at MIT,
-advised by professors Heather Kulik and Youssef Marzouk. My research lies at the intersection of atomistic  simulation, machine learning and materials design. I use quantum chemical simulations to train machine learning models that can be used to discover new materials with targeted properties. 
+I am a scientist applying state-of-the-art machine learning techniques to drug discovery tasks at [AstraZeneca](https://www.astrazeneca.com/). Before this, I was graduate student in the chemical and computational engineering Ph.D. program at MIT, advised by professors Heather Kulik and Youssef Marzouk. My research lies at the intersection of atomistic simulation, machine learning and optimization. 
 
