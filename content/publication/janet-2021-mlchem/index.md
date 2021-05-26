@@ -6,5 +6,5 @@ publication_types = ["2"]
 abstract = "(book)"
 featured = false
 publication = "*ACS in Focus*"
-url="http://pubs.acs.org/doi/book/10.1021/acs.infocus.7e4001"
+url_pdf="https//pubs.acs.org/doi/book/10.1021/acs.infocus.7e4001"
 +++
