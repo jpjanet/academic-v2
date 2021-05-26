@@ -5,6 +5,7 @@ authors = ["Michael Taylor", "Tzuhsiung Yang", "Sean Lin","Aditya Nandy","Jon Pa
 publication_types = ["2"]
 abstract = ""
 featured = false
-publication = "*ChemRxiv*"
+publication = "*The Journal of Physical Chemistry A*"
+url_pdf = "https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c01458"
 url_preprint="https://chemrxiv.org/articles/Seeing_is_Believing_Experimental_Spin_States_from_Machine_Learning_Model_Structure_Predictions/11874735/1"
 +++
