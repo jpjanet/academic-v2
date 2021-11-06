@@ -58,15 +58,15 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "pjanet@mit.edu"
+email = "jon.paul.janet@gmail.com"
 phone = ""
-address = "Building 66 Room 256, MIT, Cambridge, MA 02319"
+address = "Mölndal – 43147 Västra Götaland, Sweden"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/jp-janet"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
