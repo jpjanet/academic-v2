@@ -1,7 +1,7 @@
 +++
 title = "Improving De Novo Molecular Design with Curriculum Learning"
-date = 2021-08-04
-authors = ["Jeff Guo ","Vendy Fialková", "Juan Diego Arango"  "Christian Margreitter", "Jon Paul Janet", 
+date = 2021-10-20
+authors = ["Jeff Guo ","Vendy Fialková", "Juan Diego Arango","Christian Margreitter", "Jon Paul Janet", 
 "Kostas Papadopoulos","Ola Engkvist","Atanas Patronov"]
 publication_types = ["2"]
 abstract = ""
