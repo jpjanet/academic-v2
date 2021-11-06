@@ -5,7 +5,7 @@ authors = ["Jeff Guo ","Vendy Fialková", "Juan Diego Arango","Christian Margrei
 "Kostas Papadopoulos","Ola Engkvist","Atanas Patronov"]
 publication_types = ["2"]
 abstract = ""
-featured = True
+featured = true
 publication = "*ChemRxiv*"
 url_preprint="https://chemrxiv.org/engage/chemrxiv/article-details/616eb8cea3d2c94ceadc035d"
 +++

@@ -5,7 +5,7 @@ authors = ["Jeff Guo ","Jon Paul Janet", "Matthias R. Bauer","Eva Nittinger","Ka
 "Kostas Papadopoulos","Alexey Voronov","Atanas Patronov","Ola Engkvist","Christian Margreitter "]
 publication_types = ["2"]
 abstract = ""
-featured = False
+featured = false
 publication = "*ChemRxiv*"
 url_preprint="https://chemrxiv.org/engage/chemrxiv/article-details/6107fc3340c8bd01539a36f4"
 +++
