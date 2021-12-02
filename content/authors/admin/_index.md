@@ -22,7 +22,8 @@ bio: I research how to combine data-driven and simulation methods for atomistic 
 
 interests:
 - First-principles and data-driven chemical discovery
-- Machine learning from large-scale experiments
+- Generative AI in drug discovery
+- Integration of data-driven and physics-based models for molecular design
 - Surrogate model/machine learning confidence estimation 
 
 
