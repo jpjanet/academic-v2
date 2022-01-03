@@ -15,7 +15,7 @@ role: Senior Scientist
 # Organizations/Affiliations
 organizations:
 - name: Early CVRM @ AstraZeneca
-  url: https://www.astrazeneca.com/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: I research how to combine data-driven and simulation methods for atomistic systems.
@@ -76,5 +76,5 @@ user_groups:
 ---
 
 
-I am a scientist applying state-of-the-art machine learning techniques to drug discovery tasks at [AstraZeneca](https://www.astrazeneca.com/). Before this, I was graduate student in the chemical and computational engineering Ph.D. program at MIT, advised by professors Heather Kulik and Youssef Marzouk. My research lies at the intersection of atomistic simulation, machine learning and optimization. 
+I am a scientist applying state-of-the-art machine learning techniques to drug discovery tasks at AstraZeneca. Before this, I was graduate student in the chemical and computational engineering Ph.D. program at MIT, advised by professors Heather Kulik and Youssef Marzouk. My research lies at the intersection of atomistic simulation, machine learning and optimization. 
 
