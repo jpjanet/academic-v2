@@ -14,7 +14,7 @@ role: Associate Principal Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Molecular AIS @ AstraZeneca
+- name: Molecular AI @ AstraZeneca
 
 
 # Short bio (displayed in user profile at end of posts)
