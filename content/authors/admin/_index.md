@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Scientist
+role: Associate Principal Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Early CVRM @ AstraZeneca
+- name: Molecular AIS @ AstraZeneca
 
 
 # Short bio (displayed in user profile at end of posts)
