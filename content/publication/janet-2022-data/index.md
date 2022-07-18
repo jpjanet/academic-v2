@@ -1,6 +1,5 @@
 +++
-title = "Data-Driven Mapping of Inorganic Chemical Space for the Design of Transition Metal Complexes and Metal-Organic Frameworks
-"
+title = "Data-Driven Mapping of Inorganic Chemical Space for the Design of Transition Metal Complexes and Metal-Organic Frameworks"
 date = 2022-06-14
 authors = ["Jon Paul Janet"]
 publication_types = ["2"]
