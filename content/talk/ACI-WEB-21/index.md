@@ -1,5 +1,5 @@
 +++
-title = "(upcoming, redux) Machine Learning in Chemistry: Now and in the Future"
+title = "Machine Learning in Chemistry: Now and in the Future"
 location = "Virtual"
 event = "ACS Publications Webinar"
 draft = false

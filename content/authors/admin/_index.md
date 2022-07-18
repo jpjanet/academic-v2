@@ -18,10 +18,9 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I research how to combine data-driven and simulation methods for atomistic systems.
+bio: I research how to combine generative models with data-driven predictions and atomistic simulation methods for chemical discovery.
 
 interests:
-- First-principles and data-driven chemical discovery
 - Generative AI in drug discovery
 - Integration of data-driven and physics-based models for molecular design
 - Surrogate model/machine learning confidence estimation 
