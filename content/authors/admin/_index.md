@@ -75,5 +75,5 @@ user_groups:
 ---
 
 
-I am a scientist applying state-of-the-art machine learning techniques to drug discovery tasks at AstraZeneca. Before this, I was graduate student in the chemical and computational engineering Ph.D. program at MIT, advised by professors Heather Kulik and Youssef Marzouk. My research lies at the intersection of atomistic simulation, machine learning and optimization. 
+I am a scientist applying state-of-the-art generative modelling techniques to drug discovery tasks at AstraZeneca. Before this, I was a graduate student in the chemical and computational engineering Ph.D. program at MIT, advised by professors Heather Kulik and Youssef Marzouk. My research lies at the intersection of atomistic simulation, machine learning and molecular optimization. 
 

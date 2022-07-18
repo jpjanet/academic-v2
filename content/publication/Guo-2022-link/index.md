@@ -1,6 +1,6 @@
 +++
 title = "Link-INVENT: Generative Linker Design with Reinforcement Learning"
-date = 2021-06-22
+date = 2022-04-19
 authors = ["Jeff Guo ","Franziska Knuth", "Christian Margreitter", "Jon Paul Janet", 
 "Kostas Papadopoulos","Ola Engkvist","Atanas Patronov"]
 publication_types = ["2"]

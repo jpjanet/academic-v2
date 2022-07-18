@@ -1,6 +1,6 @@
 +++
 title = "Multi-fidelity machine learning models for improved high-throughput screening predictions"
-date = 2021-10-29
+date = 2022-05-15
 authors = ["David Buterez","Jon Paul Janet","Steven Kiddle","Pietro Liò"]
 publication_types = ["2"]
 abstract = ""
