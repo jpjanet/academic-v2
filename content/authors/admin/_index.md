@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/JP_Janet_resume_2021.pdf
+  link: files/JP_Janet_CV_2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
