@@ -47,4 +47,4 @@ hero_media = "ANN-gif-inf-small.gif"
 #[cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
-Can we use computers to help accelerate the search for new materials? What if we could benefit from the enormous speed and efficiency of machine learning models to make this process faster?
+Can we use computers to help accelerate the search for drugsa and new materials? What if we could benefit from the enormous speed and efficiency of machine learning models to make this process faster?

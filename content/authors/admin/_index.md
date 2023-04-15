@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/JP_Janet_CV_2022.pdf
+  link: files/JP_Janet_CV_2023.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,6 +74,5 @@ user_groups:
 - Visitors
 ---
 
-
-I am a scientist applying state-of-the-art generative modelling techniques to drug discovery tasks at AstraZeneca. Before this, I was a graduate student in the chemical and computational engineering Ph.D. program at MIT, advised by professors Heather Kulik and Youssef Marzouk. My research lies at the intersection of atomistic simulation, machine learning and molecular optimization. 
+I am a scientist applying state-of-the-art machine learning techniques to solve challenging problems in early stage {drug discovery}. I am interested in how {machine learning and computational chemistry} can be combined to inform molecular design. My research has been featured in [NeurIPS](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=64904), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00494-4) and various high-impact chemistry journals.
 
