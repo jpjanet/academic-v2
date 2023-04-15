@@ -74,5 +74,5 @@ user_groups:
 - Visitors
 ---
 
-I am a scientist applying state-of-the-art machine learning techniques to solve challenging problems in early stage {drug discovery}. I am interested in how {machine learning and computational chemistry} can be combined to inform molecular design. My research has been featured in [NeurIPS](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=64904), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00494-4) and various high-impact chemistry journals.
+I am a scientist applying state-of-the-art machine learning techniques to solve challenging problems in early stage drug discovery. I am interested in how machine learning and computational chemistry can be combined to inform molecular design. My research has been featured in [NeurIPS](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=64904), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00494-4) and various high-impact chemistry journals.
 
